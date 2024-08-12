@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+lib
+include
+bin
+pyvenv.cfg
+
+# Server
+public/
+
+# IDEs
+.idea
+.vscode
