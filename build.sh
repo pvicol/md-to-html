@@ -1,1 +1,1 @@
-python3 src/main.py "md-to-html"
+python3 src/main.py "/md-to-html/"
