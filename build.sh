@@ -1,1 +1,1 @@
-python3 src/main.py "site-generator"
+python3 src/main.py "md-to-html"
