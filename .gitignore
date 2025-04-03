@@ -5,9 +5,6 @@ include
 bin
 pyvenv.cfg
 
-# Server
-public/
-
 # IDEs
 .idea
 .vscode
